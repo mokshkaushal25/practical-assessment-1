@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <b> <title> THE HINDU  </title> </b>
+</head>
+<body>
+    <u><B><I> <h1 style="text-align:center">THE HINDU </I></B></u></h1>
+     <p style="text-align:center" ><img src="C:\Users\User\Pictures\images.png"></img></p>
+    <h2 style="text-align:center"> National News </h2>
+      <p style="text-align:center" ><img src="C:\Users\User\Pictures\images.jpg" alt="MAN KI BAAT " style="height: 300px; width: auto; ></img></p>
+    <h3 style="text-align:center">Census 2027: Data of 32 Crore Families Recorded - PM Modi</h3>
+     <p> PM Modi said that the first phase of Census 2027 across the country is almost complete. This process, which started from Mana village in Uttarakhand, has now reached 32 crore families.</p>
+    <p style="color:blue"> <a href="https://www.youtube.com/results?search_query=India+Census+goes+digital+PM+Modi+Mann+Ki+Baat" target="_blank">Watch on YouTube - PM Modi Channel</a></p>
+     <hr>
+    <h2 style="text-align:center"> Business News </h2>
+     <p style="text-align:center" ><img src="C:\Users\User\Pictures\bank-strike-September-2026-2026-09-25888fcd970e3cb71b82133027c53a91-1200x675.avif" alt="BANK STRIKE" ></img></p>
+    <h3 style="text-align:center"> Banks Opened on Sunday Before Bank Strike </h3>
+    <p>To reduce customer inconvenience before the 3-day bank strike from 28-30 September, banks across the country were opened today on Sunday. This has happened for the first time in history.</p>
+<p style="color:blue" ><a href="https://www.news18.com/photogallery/business/banking-finance/banks-open-on-sunday-september-27-psbs-and-rrbs-will-work-before-3-day-strike-ws-l-10352142.html" target="_blank">source</a></p>
+<hr>
+    <h2 style="text-align:center"> Sports News </h2>
+    <p style="text-align:center" ><img src="C:\Users\User\Pictures\images (1).jpg" ></img></p>
+    <h3 style="text-align:center"> India wins Asia Cup 2026 Final </h3>
+    <p> India beat Pakistan by 5 wickets to win the Asia Cup. Tilak Varma played a winning knock of 69 runs. </p>
+<p style="color:blue" ><a href="https://www.espncricinfo.com" target="_blank">source</a></p>
+<p> Moksh Kaushal 2026B15310006 AIML4 <p/>
+</body>
+</html
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. 
+    <p style="text-align:center">
+
+            </p>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> btech cse weekly timetable</title>
+</head>
+<body>
+<b><h1 style="text-align:center"> B.tech CSE Weekly timetable</h1></b>
+<p style="text-align:center"> Semester III- Class Schedule</p>                   
+<table align='center' border='2'>
+<tr>
+<th>Day</th>
+<th> 9-10 AM</th>
+<th> 10-11 AM </th>
+<th> 11AM-12PM</th>
+<th> 12-1PM</th>
+<th> 2-3PM</th>
+</tr>
+<tr>
+<th> Monday</th>
+<td>Data structures </td>
+<td>DBMS</td>
+<td rowspan='2' colspan='2' >Data structures Lab  </td>
+<td> Maths</td>
+</tr>
+<tr>
+<th> Tuesday</th>
+<td> Operating Systems</td>
+<td> Computer Networks</td>
+<td> web technology</td>
+</tr>
+<tr>
+<th> Wedenesday</th>
+<td> DBMS</td>
+<td>Data structures</td>
+<td>Maths </td>
+<td>Operating systems </td>
+<td> Computer Networks </td>
+</tr>
+<tr>
+<th> Thursday</th>
+<td> Web Technology </td>
+<td> DBMS</td>
+<td colspan='2' > Lunch Break </td>
+<td> Data Structures </td>
+</tr>
+<tr>
+<th> Friday</th>
+<td>Computer Networks </td>
+<td> Operating Systems</td>
+<td>DBMS</td>
+<td>Web Technology</td>
+<td>Programming Language </td>
+</tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

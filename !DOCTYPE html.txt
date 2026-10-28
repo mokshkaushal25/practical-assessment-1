@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Course curriculum</title>
+</head>
+<body>
+    <h1><u>Course Information</u></h1>
+    <p>
+        <dl>
+            <dt style="color: red;">Course title</dt>
+            <dd><i>Introduction to environmental sciences</i></dd>
+
+            <dt>Instructor</dt>
+            <dd><i>Moksh Kaushal</i></dd>
+
+            <dt>Course code</dt>
+            <dd><i>ENV 101</i></dd>
+
+            <dt>Course description</dt>
+            <dd><i>This course offers a foundational understanding of EVS</i></dd>
+
+            <dt>Prerequisites</dt>
+            <dd><i>None</i></dd>
+
+            <dt>Course duration</dt>
+            <dd><i>10 weeks</i></dd>
+
+            <dt>Complete date</dt>
+            <dd><i>November 21, 2050</i></dd>
+        </dl>
+    </p>
+<p> Moksh Kaushal 2026B15310006 AIML4 <p/>
+</body>
+</html>
